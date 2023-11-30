@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Zp89q29hPUAeDb9kMYgsTE81yNUY7mug3+yEiaBzSus=",
+  "Source": "RazerView",
+  "BasePath": "_content/RazerView",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RazerView\\wwwroot",
+      "Source": "RazerView",
+      "ContentRoot": "C:\\Users\\noobd\\source\\repos\\RazerView\\RazerView\\wwwroot\\",
+      "BasePath": "_content/RazerView",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\noobd\\source\\repos\\RazerView\\RazerView\\wwwroot\\StyleSheet.css",
+      "SourceId": "RazerView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\noobd\\source\\repos\\RazerView\\RazerView\\wwwroot\\",
+      "BasePath": "_content/RazerView",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
