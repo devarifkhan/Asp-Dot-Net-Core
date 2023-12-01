@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "AiWaFQD5MsP2hFpBkoFTYjStmgk0ELHVKB6r8uw2L/M=",
+  "Source": "LayoutViews",
+  "BasePath": "_content/LayoutViews",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LayoutViews\\wwwroot",
+      "Source": "LayoutViews",
+      "ContentRoot": "C:\\Users\\noobd\\source\\repos\\LayoutViews\\LayoutViews\\wwwroot\\",
+      "BasePath": "_content/LayoutViews",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\noobd\\source\\repos\\LayoutViews\\LayoutViews\\wwwroot\\StyleSheet.css",
+      "SourceId": "LayoutViews",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\noobd\\source\\repos\\LayoutViews\\LayoutViews\\wwwroot\\",
+      "BasePath": "_content/LayoutViews",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
